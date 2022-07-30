@@ -55,8 +55,9 @@ p {
 }
 
 ul li {
-  font-size: 27;
+  font-size: 32;
   list-style-position: inside;
+  font-weight: 500;
 }
 
 #tribute-info p {
