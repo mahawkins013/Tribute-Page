@@ -1,0 +1,80 @@
+html {
+  background-image: url("https://removal.ai/wp-content/uploads/2021/09/purple-background-wallpaperaccess.png");
+}
+
+.header {
+  background-img: url("https://removal.ai/wp-content/uploads/2021/09/purple-background-wallpaperaccess.png");
+}
+
+main {
+  font-family: Garamond;
+  background-color:#C4CAD0;
+  opacity: 0.65;
+}
+
+img {
+  max-width: 100%; 
+  max-height: auto;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+  display: block;
+  opacity: 1.0;
+}
+
+figcaption {
+  font-size: 21px;
+  background-color: #C4CAD0;
+  text-align: center;
+}
+
+h1, p {
+  text-align: center;
+}
+
+h1 {
+  font-size: 56px;
+}
+
+p {
+  font-size: 23px;
+  margin-bottom: -3px;
+}
+
+.container {
+  border: 1px solid #C4CAD0;
+  background-color: #C4CAD0;
+  padding: 0;
+}
+
+.wrapper {
+  border-style: none;
+  max-width: 600px;
+  margin: 0 auto;
+  opacity: 0.8;
+}
+
+ul li {
+  font-size: 27;
+  list-style-position: inside;
+}
+
+#tribute-info p {
+  text-align: left;
+  margin-left: 1.5em;
+}
+
+a {
+  color: #8D6B94;
+}
+
+a:hover {
+  color: #C4C4CE;
+}
+
+a:visited {
+  color: #8D6B94;
+}
+h2 {
+  text-align: center;
+}
